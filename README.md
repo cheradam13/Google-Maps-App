@@ -1,5 +1,29 @@
-# Vue 3 + Vite
+## Проект: Google-Maps-App 🗺️
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**Google-Maps-App** — это vue-приложение, включающее в себя интерактивную карту мира с возможностью определять расстояние от текушей геолокации пользователя до любого места на карте. Написано на vue.js, используется [Google Maps API](https://developers.google.com/maps/documentation/javascript).
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+
+🌐 Просмотр:
+[Google-Maps-App](https://cheradam13.github.io/Google-Maps-App/)
+
+### 🚀 Установка:
+
+Установка зависимостей:
+```
+npm install
+```
+Запуск сервера разработки:
+```
+npm run dev
+```
+Запуск production сборки:
+```
+npm run build
+```
+
+### 🛠️ Технологии:
+
+- [Vue.js](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Google Maps API](https://developers.google.com/maps/documentation/javascript)
